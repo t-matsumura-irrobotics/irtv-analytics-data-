@@ -1,0 +1,11 @@
+{
+  "members": [
+    { "id": 1, "name": "佐藤花子", "role": "チーフエディター", "displayOrder": 1 }
+  ],
+  "companies": [
+    { "id": 101, "name": "株式会社A" }
+  ],
+  "videos": [
+    { "id": 1001, "companyId": 101, "ctr": 5.5, "date": "2023-10-27", "impressions": 10000, "memberId": 1, "status": "active", "title": "初回サンプル動画", "views": 550 }
+  ]
+}
